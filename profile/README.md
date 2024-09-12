@@ -47,44 +47,44 @@ For building and running the application you need:
 
 ### Installation and Running
 #### Spring Boot Server (IntelliJ IDEA 사용)
-1. **레포지토리 클론**:
+1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/back-end.git
    $ cd back-end
    ```
-2. **IntelliJ IDEA에서 열기**:
+2. IntelliJ IDEA에서 열기:
    - IntelliJ IDEA를 실행합니다.
    - `Open`을 클릭하고 `back-end` 폴더의 `build.gradle` 파일을 선택합니다.
-3. **애플리케이션 실행**:
-   - 프로젝트가 로드되면, 우측 상단에 있는 초록색 **`Run`** 버튼을 클릭하여 Spring Boot 서버를 시작합니다.
+3. 애플리케이션 실행:
+   - 프로젝트가 로드되면, 우측 상단에 있는 초록색 `Run` 버튼을 클릭하여 Spring Boot 서버를 시작합니다.
 
 #### Flask Server
-1. **레포지토리 클론**:
+1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/back-end-flask.git
    $ cd back-end-flask
    ```
-2. **가상 환경 설정**:
+2. 가상 환경 설정:
    ```bash
    $ python -m venv venv 
    $ venv\Scripts\activate   # Windows 사용 시, Unix 계열은 `source venv/bin/activate`
    ```
-3. **의존성 설치 및 실행**:
+3. 의존성 설치 및 실행:
    ```bash
    $ pip install -r requirements.txt
    $ flask --app app run --host=0.0.0.0 --port=8000
    ```
 
 #### Client (Android Studio 사용)
-1. **레포지토리 클론**:
+1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/front-end.git
    $ cd front-end
    ```
-2. **Android Studio에서 열기**:
+2. Android Studio에서 열기:
    - Android Studio를 실행합니다.
    - `Open`을 선택하고 `front-end` 폴더를 엽니다.
-3. **애플리케이션 실행**:
-   - 상단에 있는 초록색 **`Run`** 버튼을 클릭하여 에뮬레이터 또는 연결된 기기에서 Android 앱을 실행합니다.   
+3. 애플리케이션 실행:
+   - 상단에 있는 초록색 `Run` 버튼을 클릭하여 에뮬레이터 또는 연결된 기기에서 Android 앱을 실행합니다.   
 
----
+
