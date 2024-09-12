@@ -139,9 +139,9 @@ For building and running the application you need:
 <br/>
 
 # 화면 구성
-![화면1.png](./image02.png)
-![화면2.png](./image03.png)
-![화면3.png](./image04.png)
+![화면1.png](./image2.png)
+![화면2.png](./image3.png)
+![화면3.png](./image4.png)
 
 <br/>
 
@@ -151,4 +151,4 @@ For building and running the application you need:
 <br/>
 
 # 📝 아키텍쳐
-![image01.png](./image01.png)
+![image01.png](./image1.png)
