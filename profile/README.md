@@ -122,44 +122,33 @@ For building and running the application you need:
 
 <br/>
 
-## ⚙️ 스택
-
+## 스택
 ### Environment
-
 - 개발 환경 : Android Studio, IntelliJ IDEA, Visual Studio Code
 - OS : Windows
-
 ### Development
-
 - 개발 도구 : Git, Spring Boot, Java SDK, MySQL, Flask
 - 개발 언어 : Java, Kotlin, SQL, Python
 - 기타사항 : Android SDK, Gradle, Google Cloud, Firebase, DeepFace, BigQuery
-
 ### Communication
-
 - 형상관리 : GitHub
 - 의사소통 관리 : Discord
 - 협업 관리 : Notion, Google drive
 - 협업 도구 : Figma, ERDCloud
 
----
+<br/>
 
-## 📺 화면 구성
-
+## 화면 구성
 ![화면1.png](./image02.png)
-
 ![화면2.png](./image03.png)
-
 ![화면3.png](./image04.png)
 
----
+<br/>
 
 ## ✒️ API
+- API 명세서 : [(https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4)
 
-- API 명세서 : [https://makeus-challenge.notion.site/API-ecafb2a8fb8c427c9e78abf6120d674b](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)
-
----
+<br/>
 
 ## 📝 아키텍쳐
-
 ![image01.png](./image01.png)
