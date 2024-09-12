@@ -140,6 +140,7 @@ For building and running the application you need:
 
 # 화면 구성
 [![Video Label](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
+클릭 해 영상 확인 가능
 
 <br/>
 
