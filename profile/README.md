@@ -18,12 +18,15 @@
 > 📅 **개발 기간**  
 > 2024년 3월부터 2024년 10월까지
 
+<br/>
 
 ## 배포 주소
 
 > **개발 버전** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **프론트 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **백엔드 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
+
+<br/>
 
 ## 팀 소개
 
@@ -34,9 +37,17 @@
 | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@dalpaeng6](https://github.com/dalpaeng6) | [@soyoon1](https://github.com/soyoon1) | [@sunflwwer](https://github.com/sunflwwer) |
 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 |
 
+<br/>
 
+## 프로젝트 소개
+**키움이(키오스크 배움이)는 사용자가 실제 키오스크와 유사한 인터페이스를 체험하고 학습할 수 있는 애플리케이션**입니다.
+> 키오스크에 익숙치 않은 사용자의 경험을 개선하여 실제 키오스크 이용 시간을 단축할 수 있습니다.
+> 디지털 소외계층이 보다 쉽게 애플리케이션을 이용할 수 있도록 비회원제를 지원합니다.
+> 사용자의 트래킹 데이터, 개선점 설문 조사 결과, UI 개선안 vs 기존 UI 설문 조사 결과를 수집함으로써 수익 창출의 가능성과 애플리케이션의 확장성을 확보하였습니다.
 
-## 시작 가이드
+<br/><br/><br/>
+
+# 시작 가이드
 ### Requirements
 For building and running the application you need:
 
@@ -44,6 +55,8 @@ For building and running the application you need:
 - [Android SDK](https://developer.android.com/studio)
 - [Java Development Kit (JDK) 17](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Python 3.12.4](https://www.python.org/downloads/)
+
+<br/>
 
 ### Installation and Running
 #### Spring Boot Server (IntelliJ IDEA 사용)
@@ -57,6 +70,8 @@ For building and running the application you need:
    - `Open`을 클릭하고 `back-end` 폴더의 `build.gradle` 파일을 선택합니다.
 3. 애플리케이션 실행:
    - 프로젝트가 로드되면, 우측 상단에 있는 초록색 `Run` 버튼을 클릭하여 Spring Boot 서버를 시작합니다.
+
+<br/>
 
 #### Flask Server
 1. 레포지토리 클론:
@@ -75,6 +90,8 @@ For building and running the application you need:
    $ flask --app app run --host=0.0.0.0 --port=8000
    ```
 
+<br/>
+
 #### Client (Android Studio 사용)
 1. 레포지토리 클론:
    ```bash
@@ -87,4 +104,18 @@ For building and running the application you need:
 3. 애플리케이션 실행:
    - 상단에 있는 초록색 `Run` 버튼을 클릭하여 에뮬레이터 또는 연결된 기기에서 Android 앱을 실행합니다.   
 
+<br/><br/><br/>
 
+# 주요 기능
+#### 📲 키오스크 연습 기능
+- 실전 연습: 패스트푸드 업체의 실제 키오스크와 유사한 화면 및 로직을 구현하여 UI/UX 조작 및 결제 시스템 연습 가능
+- 순서 지침: 키오스크 사용에 익숙하지 않은 사용자가 키오스크 로직을 파악할 수 있도록 조작 유도
+- 개선안 연습 및 기존안 vs 개선안 설문: 사용자에게 기존 키오스크보다 조작하기 쉬운 개선안 버전을 제공
+#### 💡 도움말
+- 결제 방식, 편의 사항 등 사용자가 느끼는 공통적인 어려움에 대하여 직관적인 설명 제공
+- 키오스크에 자주 사용되는 영어 표현 뜻과 풀이 제공
+#### 📝 개선점 설문
+- 사용자의 키오스크 이용 불편 사항을 수집하여 데이터 축적
+#### 🐾 사용자 반응 추적
+- 화면별 체류 시간, 잘못 누르는 화면 이름, 얼굴 인식 등을 사용하여 사용자가 어디서 어떤 어려움을 겪고 있는지 수집
+- 사용자 반응 추적을 바탕으로 실전 연습 및 개선안 연습 시 사용자가 어려움을 느낄 때 순서지침으로 넘어갈 수 있는 팝업을 제공
