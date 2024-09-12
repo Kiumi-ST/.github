@@ -139,9 +139,7 @@ For building and running the application you need:
 <br/>
 
 # 화면 구성
-![화면1.png](./image2.png)
-![화면2.png](./image3.png)
-![화면3.png](./image4.png)
+[![Video Label](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
 
 <br/>
 
