@@ -146,7 +146,12 @@ For building and running the application you need:
 <br/>
 
 # ✒️ API
-- API 명세서 : [(https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4)
+| Description        | Method | API URI                        | Request                                                                                                                                                                     | Response (예시)                                                                                                                                   |
+|--------------------|--------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 개선점 설문          | POST   | http://localhost:8080/survey   | { "q1": 4.5, "q2": "매우 편리하다", "q3": "원하는 상품을 찾기 어렵다", "q4": "없다", "q5": "좋아요" }                                                                             | { "isSuccess": true, "msg": "개선점 설문 결과 저장 완료" }                                                                                         |
+| 개선안 투표          | POST   | http://localhost:8080/votingresult | { "question1": "기존안", "question2": "매우 편리하다", "question3": "좋아요" }                                                                                                   | { "isSuccess": true, "msg": "개선안 원본 투표 결과 저장 완료" }                                                                                     |
+| 사용자 감정 인식     | POST   | http://localhost:8000/analyze-deepface | Content-Type: multipart/form-data Body: - file: 이미지 파일 - screen_name: 화면 이름                                                                                          | 코드: 200 OK { "dominantEmotion": "angry", "isDifficult": true } { "dominantEmotion": "happy", "isDifficult": false } <br> 400 BAD REQUEST: 여러 케이스 |
+
 
 <br/>
 
