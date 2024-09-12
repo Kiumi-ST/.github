@@ -119,3 +119,47 @@ For building and running the application you need:
 #### 🐾 사용자 반응 추적
 - 화면별 체류 시간, 잘못 누르는 화면 이름, 얼굴 인식 등을 사용하여 사용자가 어디서 어떤 어려움을 겪고 있는지 수집
 - 사용자 반응 추적을 바탕으로 실전 연습 및 개선안 연습 시 사용자가 어려움을 느낄 때 순서지침으로 넘어갈 수 있는 팝업을 제공
+
+<br/>
+
+## ⚙️ 스택
+
+### Environment
+
+- 개발 환경 : Android Studio, IntelliJ IDEA, Visual Studio Code
+- OS : Windows
+
+### Development
+
+- 개발 도구 : Git, Spring Boot, Java SDK, MySQL, Flask
+- 개발 언어 : Java, Kotlin, SQL, Python
+- 기타사항 : Android SDK, Gradle, Google Cloud, Firebase, DeepFace, BigQuery
+
+### Communication
+
+- 형상관리 : GitHub
+- 의사소통 관리 : Discord
+- 협업 관리 : Notion, Google drive
+- 협업 도구 : Figma, ERDCloud
+
+---
+
+## 📺 화면 구성
+
+![화면1.png](./image02.png)
+
+![화면2.png](./image03.png)
+
+![화면3.png](./image04.png)
+
+---
+
+## ✒️ API
+
+- API 명세서 : [https://makeus-challenge.notion.site/API-ecafb2a8fb8c427c9e78abf6120d674b](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)
+
+---
+
+## 📝 아키텍쳐
+
+![image01.png](./image01.png)
