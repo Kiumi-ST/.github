@@ -122,7 +122,7 @@ For building and running the application you need:
 
 <br/>
 
-## 스택
+# 스택
 ### Environment
 - 개발 환경 : Android Studio, IntelliJ IDEA, Visual Studio Code
 - OS : Windows
@@ -138,17 +138,17 @@ For building and running the application you need:
 
 <br/>
 
-## 화면 구성
+# 화면 구성
 ![화면1.png](./image02.png)
 ![화면2.png](./image03.png)
 ![화면3.png](./image04.png)
 
 <br/>
 
-## ✒️ API
+# ✒️ API
 - API 명세서 : [(https://www.notion.so/API-eaa0057161d443d0af90b464004572a4?pvs=21)](https://www.notion.so/API-eaa0057161d443d0af90b464004572a4)
 
 <br/>
 
-## 📝 아키텍쳐
+# 📝 아키텍쳐
 ![image01.png](./image01.png)
