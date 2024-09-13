@@ -25,6 +25,7 @@
 > **개발 버전** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **프론트 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **백엔드 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
+> **플라스크 서버** : [https://kiumi-ef992.du.r.appspot.com](https://kiumi-ef992.du.r.appspot.com) <br>
 
 <br/>
 
