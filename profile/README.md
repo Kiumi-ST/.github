@@ -121,7 +121,7 @@ For building and running the application you need:
 - 화면별 체류 시간, 잘못 누르는 화면 이름, 얼굴 인식 등을 사용하여 사용자가 어디서 어떤 어려움을 겪고 있는지 수집
 - 사용자 반응 추적을 바탕으로 실전 연습 및 개선안 연습 시 사용자가 어려움을 느낄 때 순서지침으로 넘어갈 수 있는 팝업을 제공
 
-<br/>
+<br/><br/><br/>
 
 # 🔧 기술 스택
 
@@ -135,11 +135,21 @@ For building and running the application you need:
 | **협업 & 커뮤니케이션**  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ERDCloud |
 
 
-<br/>
+<br/><br/><br/>
 
-# 화면 구성
-[![Video Label](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
-클릭 해 영상 확인 가능
+# 🎬 화면 구성 (UI Preview)
+
+프로젝트의 주요 화면을 확인하고 싶다면, 아래의 영상을 클릭해 주세요!
+
+[![UI Preview](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
+
+프로젝트의 사용자 인터페이스(UI)와 기능 시연을 영상으로 제공합니다. 
+영상에서는 각 화면의 구성과 기능 동작을 자세히 설명합니다.
+
+---
+
+**🔗 참고**: UI/UX 디자인은 Figma로 제작되었습니다.
+
 
 <br/>
 
