@@ -1,36 +1,35 @@
-### 2024 Corner 정규 프로젝트
+# 2024 Corner  정규 프로젝트
 
 <p align="center">
-<img width="329" alt="Kiumi 키움이 로고" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9" />
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9"
 </p>
 
----
-
-## **Kiumi 키움이**
+# Kiumi 키움이
 
 > **덕성여자대학교 개발 소모임 _'코너'_ 팀 '에스티(ST)'**  
 >
 > ⚡ **키오스크의 빠른 확산**  
-> 키오스크는 현대 생활 속 필수 요소가 되었으나, **매장마다 전혀 다른 UI/UX**로 인해 많은 사용자가 **혼란**을 겪고 있습니다.
+> 어느덧 현대 생활 속 필수 요소로 자리 잡은 키오스크.  
+> 하지만 **매장마다 전혀 다른 UI/UX**를 제공해 많은 사용자가 **혼란**을 느끼고 있습니다.
 >
 > 💡 **해결책**  
 > 저희는 사용자가 다양한 업체의 키오스크 **인터페이스를 미리 경험**할 수 있는 **서비스**를 제공합니다.
+>
+> 📅 **개발 기간**  
+> 2024년 3월부터 2024년 10월까지
 
-### 📅 개발 기간  
-2024년 3월 ~ 2024년 10월
+<br/>
 
----
+## 배포 주소
 
-## **배포 주소**
+> **개발 버전** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
+> **프론트 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
+> **백엔드 서버** : [http://13.125.162.28:8080](http://13.125.162.28:8080) <br>
+> **플라스크 서버** : [https://kiumi-ef992.du.r.appspot.com](https://kiumi-ef992.du.r.appspot.com) <br>
 
-- **개발 버전**: [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do)  
-- **프론트 서버**: [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do)  
-- **백엔드 서버**: [http://13.125.162.28:8080](http://13.125.162.28:8080)  
-- **플라스크 서버**: [https://kiumi-ef992.du.r.appspot.com](https://kiumi-ef992.du.r.appspot.com)
+<br/>
 
----
-
-## **팀 소개**
+## 팀 소개
 
 |       박유정       |       김다빈        |      조소윤        |       정지민       |                                                                                                               
 | :-----------------: | :-----------------: | :----------------: | :----------------: | 
@@ -39,37 +38,43 @@
 | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@dalpaeng6](https://github.com/dalpaeng6) | [@soyoon1](https://github.com/soyoon1) | [@sunflwwer](https://github.com/sunflwwer) |
 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 (휴학) | 덕성여자대학교 <br> 컴퓨터공학과 3학년 |
 
----
+<br/>
 
-## **프로젝트 소개**
-**키움이(키오스크 배움이)**는 사용자가 실제 키오스크와 유사한 **인터페이스를 체험하고 학습**할 수 있는 애플리케이션입니다.
+## 프로젝트 소개
+**키움이(키오스크 배움이)는 사용자가 실제 키오스크와 유사한 인터페이스를 체험하고 학습할 수 있는 애플리케이션**입니다.
+> 키오스크에 익숙치 않은 사용자의 경험을 개선하여 실제 키오스크 이용 시간을 단축할 수 있습니다.
+> 디지털 소외계층이 보다 쉽게 애플리케이션을 이용할 수 있도록 비회원제를 지원합니다.
+> 사용자의 트래킹 데이터, 개선점 설문 조사 결과, UI 개선안 vs 기존 UI 설문 조사 결과를 수집함으로써 수익 창출의 가능성과 애플리케이션의 확장성을 확보하였습니다.
 
-- **사용자의 경험 개선**: 키오스크에 익숙하지 않은 사용자도 쉽고 빠르게 학습할 수 있습니다.
-- **비회원제 지원**: 디지털 소외계층을 위해 비회원제로 편리하게 접근할 수 있습니다.
-- **트래킹 데이터 및 설문 조사**: 사용자 데이터와 설문 조사 결과를 통해 서비스의 확장성과 수익 창출 가능성을 확보하였습니다.
+<br/><br/><br/>
 
----
-
-## **시작 가이드**
-
+## 시작 가이드
 ### Requirements
-- **MySQL 8.0**
-- **Android SDK**
-- **JDK 17**
-- **Python 3.12.4**
+For building and running the application you need:
+
+- [MySQL 8.0](https://dev.mysql.com/downloads/mysql/) 
+- [Android SDK](https://developer.android.com/studio)
+- [Java Development Kit (JDK) 17](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [Python 3.12.4](https://www.python.org/downloads/)
+
+<br/>
 
 ### Installation and Running
-
-#### **Spring Boot Server (IntelliJ IDEA 사용)**
+#### Spring Boot Server (IntelliJ IDEA 사용)
 1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/back-end.git
    $ cd back-end
    ```
-2. IntelliJ IDEA에서 `build.gradle` 파일을 열어 프로젝트 로드.
-3. 초록색 `Run` 버튼을 눌러 서버 시작.
+2. IntelliJ IDEA에서 열기:
+   - IntelliJ IDEA를 실행합니다.
+   - `Open`을 클릭하고 `back-end` 폴더의 `build.gradle` 파일을 선택합니다.
+3. 애플리케이션 실행:
+   - 프로젝트가 로드되면, 우측 상단에 있는 초록색 `Run` 버튼을 클릭하여 Spring Boot 서버를 시작합니다.
 
-#### **Flask Server**
+<br/>
+
+#### Flask Server
 1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/back-end-flask.git
@@ -78,61 +83,62 @@
 2. 가상 환경 설정:
    ```bash
    $ python -m venv venv 
-   $ venv\Scripts\activate 
+   $ venv\Scripts\activate   # Windows 사용 시, Unix 계열은 `source venv/bin/activate`
    ```
-3. 의존성 설치 및 서버 실행:
+3. 의존성 설치 및 실행:
    ```bash
    $ pip install -r requirements.txt
    $ flask --app app run --host=0.0.0.0 --port=8000
    ```
 
-#### **Client (Android Studio 사용)**
+<br/>
+
+#### Client (Android Studio 사용)
 1. 레포지토리 클론:
    ```bash
    $ git clone https://github.com/Kiumi-ST/front-end.git
    $ cd front-end
    ```
-2. Android Studio에서 `front-end` 폴더 열기.
-3. `Run` 버튼을 눌러 앱 실행.
+2. Android Studio에서 열기:
+   - Android Studio를 실행합니다.
+   - `Open`을 선택하고 `front-end` 폴더를 엽니다.
+3. 애플리케이션 실행:
+   - 상단에 있는 초록색 `Run` 버튼을 클릭하여 에뮬레이터 또는 연결된 기기에서 Android 앱을 실행합니다.   
 
----
+<br/><br/><br/>
 
-## **주요 기능**
-- **키오스크 연습 기능**: 실제 키오스크와 유사한 UI/UX 연습 가능.
-- **순서 지침**: 키오스크 사용법을 익히기 위한 조작 유도.
-- **사용자 반응 추적**: 얼굴 인식 및 화면별 체류 시간 분석을 통해 어려움을 추적.
+## 주요 기능
+#### 📲 키오스크 연습 기능
+- 실전 연습: 패스트푸드 업체의 실제 키오스크와 유사한 화면 및 로직을 구현하여 UI/UX 조작 및 결제 시스템 연습 가능
+- 순서 지침: 키오스크 사용에 익숙하지 않은 사용자가 키오스크 로직을 파악할 수 있도록 조작 유도
+- 개선안 연습 및 기존안 vs 개선안 설문: 사용자에게 기존 키오스크보다 조작하기 쉬운 개선안 버전을 제공
+#### 💡 도움말
+- 결제 방식, 편의 사항 등 사용자가 느끼는 공통적인 어려움에 대하여 직관적인 설명 제공
+- 키오스크에 자주 사용되는 영어 표현 뜻과 풀이 제공
+#### 📝 개선점 설문
+- 사용자의 키오스크 이용 불편 사항을 수집하여 데이터 축적
+#### 🐾 사용자 반응 추적
+- 화면별 체류 시간, 잘못 누르는 화면 이름, 얼굴 인식 등을 사용하여 사용자가 어디서 어떤 어려움을 겪고 있는지 수집
+- 사용자 반응 추적을 바탕으로 실전 연습 및 개선안 연습 시 사용자가 어려움을 느낄 때 순서지침으로 넘어갈 수 있는 팝업을 제공
 
----
+<br/><br/><br/>
 
-## **기술 스택**
+## 🔧 기술 스택
 
-| **분류**              | **기술**                                                                                                        |
-|-----------------------|----------------------------------------------------------------------------------------------------------------|
-| **개발 환경**          | Android Studio, IntelliJ IDEA, Visual Studio Code, Windows                                                     |
-| **프로그래밍 언어**    | Java, Kotlin, Python, SQL                                                                                      |
-| **백엔드 프레임워크**   | Spring Boot, Flask                                                                                            |
-| **데이터베이스 & 클라우드** | MySQL, Google Cloud, Firebase                                                                                  |
-| **버전 관리 & 빌드 도구** | Git, Gradle                                                                                                   |
-| **협업 & 커뮤니케이션** | GitHub, Discord, Notion, Google Drive, Figma, ERDCloud                                                       |
+| **분류**              | **기술**                                                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **개발 환경 (IDE & OS)** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **프로그래밍 언어**      | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) |
+| **백엔드 & 프레임워크**   | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)                                                                                                                                                                                             |
+| **데이터베이스 & 클라우드**| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) DeepFace, BigQuery |
+| **버전 관리 & 빌드 도구** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)                                                                                                                                                                                                                          |
+| **협업 & 커뮤니케이션**  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ERDCloud |
 
----
 
-## **API**
+<br/><br/><br/>
 
-| Description        | Method | API URI                        | Request                                                                                                                                                                     | Response (예시)                                                                                                                                   |
-|--------------------|--------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 개선점 설문          | POST   | http://localhost:8080/survey   | { "q1": 4.5, "q2": "매우 편리하다", "q3": "원하는 상품을 찾기 어렵다", "q4": "없다", "q5": "좋아요" }                                                                             | { "isSuccess": true, "msg": "개선점 설문 결과 저장 완료" }                                                                                         |
-| 개선안 투표          | POST   | http://localhost:8080/votingresult | { "question1": "기존안", "question2": "매우 편리하다", "question3": "좋아요" }                                                                                                   | { "isSuccess": true, "msg": "개선안 원본 투표 결과 저장 완료" }                                                                                     |
-| 사용자 감정 인식     | POST   | http://localhost:8000/analyze-deepface | Content-Type: multipart/form-data Body: - file: 이미지 파일 - screen_name: 화면 이름                                                                                          | 코드: 200 OK { "dominantEmotion": "angry", "isDifficult": true } { "dominantEmotion": "happy", "isDifficult": false } <br> 400 BAD REQUEST: 여러 케이스 |
+## 🎬 화면 구성 (UI Preview)
 
----
-
-## **아키텍처**
-![image01.png](./image1.png)
-
----
-
-## **UI Preview**
 프로젝트의 주요 화면을 확인하고 싶다면, 아래의 영상을 클릭해 주세요!
 
 [![UI Preview](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
@@ -143,3 +149,19 @@
 ---
 
 **🔗 참고**: UI/UX 디자인은 Figma로 제작되었습니다.
+
+
+<br/>
+
+## ✒️ API
+| Description        | Method | API URI                        | Request                                                                                                                                                                     | Response (예시)                                                                                                                                   |
+|--------------------|--------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 개선점 설문          | POST   | http://localhost:8080/survey   | { "q1": 4.5, "q2": "매우 편리하다", "q3": "원하는 상품을 찾기 어렵다", "q4": "없다", "q5": "좋아요" }                                                                             | { "isSuccess": true, "msg": "개선점 설문 결과 저장 완료" }                                                                                         |
+| 개선안 투표          | POST   | http://localhost:8080/votingresult | { "question1": "기존안", "question2": "매우 편리하다", "question3": "좋아요" }                                                                                                   | { "isSuccess": true, "msg": "개선안 원본 투표 결과 저장 완료" }                                                                                     |
+| 사용자 감정 인식     | POST   | http://localhost:8000/analyze-deepface | Content-Type: multipart/form-data Body: - file: 이미지 파일 - screen_name: 화면 이름                                                                                          | 코드: 200 OK { "dominantEmotion": "angry", "isDifficult": true } { "dominantEmotion": "happy", "isDifficult": false } <br> 400 BAD REQUEST: 여러 케이스 |
+
+
+<br/>
+
+## 📝 아키텍쳐
+![image01.png](./image1.png)
