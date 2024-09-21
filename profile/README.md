@@ -170,4 +170,4 @@ For building and running the application you need:
 <br/>
 
 ## 멘토링
-이번 프로젝트는 한이음 프로젝트의 일환으로, 핀테크 앱 주요 기능화를 고려한 키오스크 시뮬레이터 제작을 목표로 수행되었습니다. 프로젝트 과정에서 BC카드의 길진세님께서 멘토링을 해주셨습니다. 멘토님의 LinkedIn 프로필은 [여기](https://www.linkedin.com/in/kiljinse/)에서 확인하실 수 있습니다.
+이번 프로젝트는 한이음 프로젝트의 일환으로, **핀테크 앱 주요 기능화를 고려한 키오스크 시뮬레이터 제작**을 목표로 수행되었습니다. 프로젝트 과정에서 <u>BC카드의 길진세</u>님께서 멘토링을 해주셨습니다. 멘토님의 LinkedIn 프로필은 [여기](https://www.linkedin.com/in/kiljinse/)에서 확인하실 수 있습니다.
