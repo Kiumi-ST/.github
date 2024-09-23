@@ -2,7 +2,7 @@
 **덕성여자대학교 IT개발 소모임 _'코너'_ 정규 프로젝트 팀 '에스티(ST)'**
 
 <p align="center">
-<img width="329" alt="image" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9"
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9">
 </p>
 
 <br/>
@@ -149,12 +149,11 @@ For building and running the application you need:
 
 ## 🎬 화면 구성 (UI Preview)
 
-프로젝트의 주요 화면을 확인하고 싶다면, 아래의 영상을 클릭해 주세요!
-
-[![UI Preview](http://img.youtube.com/vi/FJjB-nzOKT0/0.jpg)](https://youtu.be/FJjB-nzOKT0)
-
-프로젝트의 사용자 인터페이스(UI)와 기능 시연을 영상으로 제공합니다. 
+프로젝트의 사용자 인터페이스(UI)와 기능을 확인하고 싶다면, 아래의 시연 영상을 클릭해 주세요! <br/>
 영상에서는 각 화면의 구성과 기능 동작을 자세히 설명합니다.
+
+[<img width="800" alt="image" src="https://github.com/user-attachments/assets/0d81f387-1af9-4fd2-bec8-9b9e4a8a2b00">](https://youtu.be/FJjB-nzOKT0)
+
 
 
 <br/><br/>
