@@ -1,24 +1,34 @@
-# 2024 Corner  정규 프로젝트
+# 2024 Corner 정규 프로젝트 - Kiumi 키움이
+**덕성여자대학교 IT개발 소모임 _'코너'_ 정규 프로젝트 팀 '에스티(ST)'**
 
 <p align="center">
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/5946505c-fd48-4d9b-9728-95b503fbf3f9"
 </p>
 
-# Kiumi 키움이
+<br/>
+<br/>
 
-> **덕성여자대학교 개발 소모임 _'코너'_ 팀 '에스티(ST)'**  
->
-> ⚡ **키오스크의 빠른 확산**  
+⚡ **키오스크의 빠른 확산**  
 > 어느덧 현대 생활 속 필수 요소로 자리 잡은 키오스크.  
 > 하지만 **매장마다 전혀 다른 UI/UX**를 제공해 많은 사용자가 **혼란**을 느끼고 있습니다.
->
-> 💡 **해결책**  
-> 저희는 사용자가 다양한 업체의 키오스크 **인터페이스를 미리 경험**할 수 있는 **서비스**를 제공합니다.
->
-> 📅 **개발 기간**  
-> 2024년 3월부터 2024년 10월까지
 
 <br/>
+
+💡 **해결책**  
+> 키움이는 사용자가 다양한 업체의 키오스크 **인터페이스를 미리 경험**할 수 있는 **서비스**를 제공합니다.
+
+<br/>
+
+📅 **개발 기간**  
+> 2024년 3월 ~ 2024년 10월
+
+<br/>
+
+🎓 **멘토링** <br/>
+> 키움이는 **한이음 프로젝트**의 일환으로, **핀테크 앱 주요 기능화를 고려한 키오스크 시뮬레이터 제작**을 목표로 수행되었습니다.
+> 프로젝트 과정에서 **BC카드의 길진세**님께서 멘토링을 해주셨습니다. 길진세님은 프로젝트의 방향성 설정과 실무적인 조언을 통해 많은 도움을 주셨습니다. 멘토님의 LinkedIn 프로필은  [여기](https://www.linkedin.com/in/kiljinse/)에서 확인하실 수 있습니다.
+
+<br/><br/>
 
 ## 배포 주소
 
@@ -28,7 +38,7 @@
 > **플라스크 서버** : [https://kiumi-ef992.du.r.appspot.com](https://kiumi-ef992.du.r.appspot.com) <br>
 
 
-<br/>
+<br/><br/>
 
 ## 팀 소개
 
@@ -39,7 +49,7 @@
 | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@dalpaeng6](https://github.com/dalpaeng6) | [@soyoon1](https://github.com/soyoon1) | [@sunflwwer](https://github.com/sunflwwer) |
 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 | 덕성여자대학교 <br> 컴퓨터공학과 3학년 |
 
-<br/>
+<br/><br/>
 
 ## 프로젝트 소개
 **키움이(키오스크 배움이)는 사용자가 실제 키오스크와 유사한 인터페이스를 체험하고 학습할 수 있는 애플리케이션**입니다.
@@ -47,7 +57,7 @@
 > 디지털 소외계층이 보다 쉽게 애플리케이션을 이용할 수 있도록 비회원제를 지원합니다.
 > 사용자의 트래킹 데이터, 개선점 설문 조사 결과, UI 개선안 vs 기존 UI 설문 조사 결과를 수집함으로써 수익 창출의 가능성과 애플리케이션의 확장성을 확보하였습니다.
 
-<br/>
+<br/><br/>
 
 ## 시작 가이드
 ### Requirements
@@ -106,7 +116,7 @@ For building and running the application you need:
 3. 애플리케이션 실행:
    - 상단에 있는 초록색 `Run` 버튼을 클릭하여 에뮬레이터 또는 연결된 기기에서 Android 앱을 실행합니다.   
 
-<br/>
+<br/><br/>
 
 ## 주요 기능
 #### 📲 키오스크 연습 기능
@@ -122,7 +132,7 @@ For building and running the application you need:
 - 화면별 체류 시간, 잘못 누르는 화면 이름, 얼굴 인식 등을 사용하여 사용자가 어디서 어떤 어려움을 겪고 있는지 수집
 - 사용자 반응 추적을 바탕으로 실전 연습 및 개선안 연습 시 사용자가 어려움을 느낄 때 순서지침으로 넘어갈 수 있는 팝업을 제공
 
-<br/>
+<br/><br/>
 
 ## 🔧 기술 스택
 
@@ -134,9 +144,10 @@ For building and running the application you need:
 | **데이터베이스 & 클라우드**| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) DeepFace, BigQuery |
 | **버전 관리 & 빌드 도구** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)                                                                                                                                                                                                                          |
 | **협업 & 커뮤니케이션**  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ERDCloud |
+---
+**🔗 참고**: UI/UX 디자인은 Figma로 제작되었습니다.
 
-
-<br/>
+<br/><br/>
 
 ## 🎬 화면 구성 (UI Preview)
 
@@ -147,12 +158,8 @@ For building and running the application you need:
 프로젝트의 사용자 인터페이스(UI)와 기능 시연을 영상으로 제공합니다. 
 영상에서는 각 화면의 구성과 기능 동작을 자세히 설명합니다.
 
----
 
-**🔗 참고**: UI/UX 디자인은 Figma로 제작되었습니다.
-
-
-<br/>
+<br/><br/>
 
 ## ✒️ API
 | Description        | Method | API URI                        | Request                                                                                                                                                                     | Response (예시)                                                                                                                                   |
@@ -162,14 +169,12 @@ For building and running the application you need:
 | 사용자 감정 인식     | POST   | http://localhost:8000/analyze-deepface | Content-Type: multipart/form-data Body: - file: 이미지 파일 - screen_name: 화면 이름                                                                                          | 코드: 200 OK { "dominantEmotion": "angry", "isDifficult": true } { "dominantEmotion": "happy", "isDifficult": false } <br> 400 BAD REQUEST: 여러 케이스 |
 
 
-<br/>
+<br/><br/>
 
 ## 📝 아키텍쳐
 ![image01.png](./image1.png)
 
 <br/>
 
-## 🎓 멘토링
-키움이는 **한이음 프로젝트**의 일환으로, **핀테크 앱 주요 기능화를 고려한 키오스크 시뮬레이터 제작**을 목표로 수행되었습니다.
-프로젝트 과정에서 **BC카드의 길진세**님께서 멘토링을 해주셨습니다. 길진세님은 프로젝트의 방향성 설정과 실무적인 조언을 통해 많은 도움을 주셨습니다. 멘토님의 LinkedIn 프로필은  [여기](https://www.linkedin.com/in/kiljinse/)에서 확인하실 수 있습니다.
+
 
