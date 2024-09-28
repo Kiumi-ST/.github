@@ -34,7 +34,7 @@
 
 > **개발 버전** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
 > **프론트 서버** : [https://www.duksung.ac.kr/main.do](https://www.duksung.ac.kr/main.do) <br>
-> **백엔드 서버** : [http://13.125.162.28:8080](http://13.125.162.28:8080) (현재 중단된 상태입니다) <br>
+> **백엔드 서버** : [http://43.202.235.227](http://43.202.235.227) (현재 중단된 상태입니다) <br>
 > **플라스크 서버** : [https://kiumi-ef992.du.r.appspot.com](https://kiumi-ef992.du.r.appspot.com) <br>
 
 
